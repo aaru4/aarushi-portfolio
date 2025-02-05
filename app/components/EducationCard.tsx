@@ -15,7 +15,7 @@ interface ECProjectCardProps {
   export const ECProjectBox: React.FC<ECProjectCardProps> = ({ title, org, date, color }) => {
     return (
       <div
-        className={`w-[400px] h-[220px] flex flex-col p-6 rounded-lg shadow-lg mx-auto transform transition-transform duration-300`}
+        className={`w-[400px] h-[260px] flex flex-col p-6 rounded-lg shadow-lg mx-auto transform transition-transform duration-300`}
         style={{
           background: `linear-gradient(${hexToRgba(color, 0.5)}, ${color})`,
         }}
