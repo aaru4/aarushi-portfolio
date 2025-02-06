@@ -22,7 +22,20 @@ export default function Home() {
           <h1 className="font-bold text-3xl py-3"> Developer </h1>
           <h1 className="text-xl"> Studying Computer Science @ South Forsyth High School </h1>
           <h1 className="text-xl"> Contact: aaru7811 [at] gmail [dot] com </h1>
-          
+          <a
+            href="https://www.linkedin.com/in/aarushi-ammavajjala-207b49238/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block mt-4"
+          >
+            <Image
+              src="/linkedin.svg"
+              alt="LinkedIn Icon"
+              width={70}
+              height={70}
+              className="rounded hover:bg-[#6cd0d0] transition-opacity-80 duration-200"
+            />
+          </a>
         </section>
         <h1 className="font-bold text-4xl py-3 underline"> Education & Skills </h1>
         <section id="education" className="flex flex-col gap-6 sm:gap-8">
