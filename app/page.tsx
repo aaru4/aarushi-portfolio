@@ -174,7 +174,7 @@ export default function Home() {
               <IndBox
                 title="ClimiCide"
                 org="A gradient boosting regressor, trained on a custom dataset, to predict increases in climate-change-induced suicides."
-                color="#fbceb1"
+                color="#ffcbdb"
               />
             </a>
 
