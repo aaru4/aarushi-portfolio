@@ -127,7 +127,7 @@ export default function Home() {
           </div>
         </section>
         <section id="projects">
-          <h1 className="font-bold text-4xl py-3 underline"> Recent, Independent Projects </h1>
+          <h1 className="font-bold text-4xl py-3 underline"> Independent Projects </h1>
           <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3 gap-6 px-4 mx-auto justify-items-center">
              <a
               href="https://github.com/aaru4/mediScript"
