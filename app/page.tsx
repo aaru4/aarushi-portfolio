@@ -150,7 +150,7 @@ export default function Home() {
               <IndBox
                 title="MelaninMed"
                 org="A deep learning powered AI mobile application for racially equitable skin cancer detection."
-                color="#fbceb1"
+                color="#b1ddc9"
               />
             </a>
             <a
@@ -162,7 +162,7 @@ export default function Home() {
               <IndBox
                 title="POCUS-Net"
                 org="A highly-accurate transformer-based classification model to reduce anesthesia-induced aspiration morbidity."
-                color="#b1ddc9"
+                color="#6cd0d0"
               />
             </a>
             <a
@@ -174,7 +174,7 @@ export default function Home() {
               <IndBox
                 title="ClimiCide"
                 org="A gradient boosting regressor, trained on a custom dataset, to predict increases in climate-change-induced suicides."
-                color="#6cd0d0"
+                color="#fbceb1"
               />
             </a>
 
