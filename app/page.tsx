@@ -42,7 +42,7 @@ export default function Home() {
           <div className="w-full sm:w-1/3">
             <ECProjectBox
               title="South Forsyth High School"
-              org="NMSQT Semifinalist, AP Scholar with Distinction"
+              org="NMSQT Finalist, AP Scholar with Distinction"
               date="AUG 2021 - MAY 2025"  
               color="#fbceb1"
             />
