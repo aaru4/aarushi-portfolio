@@ -80,7 +80,7 @@ export default function Home() {
               />
               <UCProjectBox
                 title="AI Development Intern"
-                org="United Nations"
+                org="United Nations WAY"
                 date="JAN 2025 - PRESENT"
                 desc="Coordinating AI development across 140+ youth-led international NGOs."
                 color="#6cd0d0"
