@@ -49,7 +49,7 @@ export default function Home() {
           </div>
 
           <div className="w-full sm:w-2/3 px-4">
-            <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-8 gap-x-28">
+            <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-4 gap-x-28">
               <SkillBox title="Python" color="#fbceb1" />
               <SkillBox title="Java" color="#b1ddc9" />
               <SkillBox title="Swift" color="#6cd0d0" />
