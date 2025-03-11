@@ -68,13 +68,13 @@ export default function Home() {
                 title="AI Development Intern"
                 org="Georgia Institute of Technology"
                 date="AUG 2025"
-                desc="Computational creativity. AI-powered game generation. More coming soon."
+                desc="Computational creativity & AI-powered game generation. More coming soon."
                 color="#fbceb1"
               />
             <UCProjectBox
-                title="STEM@GTRI Research Intern"
+                title="STEM@GTRI Intern"
                 org="Georgia Tech Research Institute"
-                date="JUNE 2025"
+                date="JUNE-JULY 2025"
                 desc="Details coming soon."
                 color="#b1ddc9"
               />
