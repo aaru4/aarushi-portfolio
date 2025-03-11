@@ -67,23 +67,30 @@ export default function Home() {
               <UCProjectBox
                 title="AI Development Intern"
                 org="Georgia Institute of Technology"
+                date="AUG 2025"
+                desc="Computational creativity. AI-powered game generation. More coming soon."
+                color="#fbceb1"
+              />
+            <UCProjectBox
+                title="STEM@GTRI Research Intern"
+                org="Georgia Tech Research Institute"
                 date="JUNE 2025"
                 desc="Details coming soon."
-                color="#fbceb1"
+                color="#b1ddc9"
               />
               <UCProjectBox
                 title="AI Development Intern"
                 org="United Nations"
                 date="JAN 2025 - PRESENT"
                 desc="Coordinating AI development across 140+ youth-led international NGOs."
-                color="#b1ddc9"
+                color="#6cd0d0"
               />
                 <UCProjectBox
                 title="AI Research Intern"
                 org="Stanford Department of Anesthesiology"
                 date="JAN 2025 - PRESENT"
                 desc="Predicting hypotension from arterial blood waveforms using deep learning."
-                color="#6cd0d0"
+                color="#ffcbdb"
               />
          
             <UCProjectBox
@@ -91,7 +98,7 @@ export default function Home() {
               org="Oracle"
               date="AUG 2024 - PRESENT"
               desc="Designed and implemented a billing system using OCI, APEX, SQL, & PL/SQL; directed FIFO debt management, payment application, and error handling, with delinquency predictions."
-              color="#ffcbdb"
+              color="#fbceb1"
             />
 
               <UCProjectBox
@@ -99,7 +106,7 @@ export default function Home() {
                 org="Stanford Center for Artificial Intelligence in Medicine and Imaging"
                 date="JUNE - JULY 2024"
                 desc="1 of 20 selected nationwide. Developed high-accuracy pulmonary diagnostic system.  RadGraph for unsupervised radiology report classifier; ResNet ultrasound analysis model."
-                color="#fbceb1"
+                color="#b1ddc9"
               />
 
             <UCProjectBox
@@ -107,14 +114,14 @@ export default function Home() {
               org="Microsoft"
               date="JULY 2023 - APR 2024"
               desc="Utilized Swift, SQL, Dart, and JavaScript to develop JackTag, a mobile application and NFC wearable that streamlines communication of medical information between crisis victims and first responders. Presented to Microsoft/AT&T investors."
-              color="#b1ddc9"
+              color="#6cd0d0"
             />
            <UCProjectBox
                 title="AI Research Intern"
                 org="TSI + Cornell University"
                 date="JUNE - AUG 2023"
                 desc="Developed a graph neural network for binary state neuroimaging recognition. Accepted to TSI (~10% of 850), matched at Cornell University. Published paper and spoke at Talaria International Conference."
-                color="#6cd0d0"
+                color="#ffcbdb"
               />
           
             <UCProjectBox
@@ -122,7 +129,7 @@ export default function Home() {
               org="Midwestern University"
               date="AUG 2023 - APR 2024"
               desc="Developed a two-prong neural network to automate gastric point-of-care ultrasound. Segments antrum, classifies content, identifies diameters, calculates operable volume, and outputs aspiration risk."
-              color="#ffcbdb"
+              color="#fbceb1"
             />
           </div>
         </section>
