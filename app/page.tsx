@@ -74,7 +74,7 @@ export default function Home() {
             <UCProjectBox
                 title="STEM@GTRI Intern"
                 org="Georgia Tech Research Institute"
-                date="JUNE-JULY 2025"
+                date="JUNE - JULY 2025"
                 desc="Details coming soon."
                 color="#b1ddc9"
               />
