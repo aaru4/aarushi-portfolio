@@ -149,7 +149,7 @@ export default function Home() {
               />
             </a>
             <a
-              href="https://www.youtube.com/watch?v=_bVhGnBFY90"
+              href="https://www.youtube.com/watch?v=-zZfaS5J5Wc"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-4"
